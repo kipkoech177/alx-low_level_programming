@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - a program that prints a word using printf
  * Return : 0 (success)
  */
