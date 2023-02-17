@@ -2,7 +2,7 @@
 /**
  *  main - a program that prints a word using printf
  *
- *  Return : returns  0 (successful)
+ *  Return: returns  0 (successful)
  */
 int main(void)
 {
