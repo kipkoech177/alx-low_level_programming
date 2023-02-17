@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - a program that prints a word using printf
+ *  main - a program that prints a word using printf
  *
- * Return : 0 (success)
+ *  Return : returns  0 (successful)
  */
 int main(void)
 {
