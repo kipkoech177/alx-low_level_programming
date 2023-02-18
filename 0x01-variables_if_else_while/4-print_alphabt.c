@@ -10,7 +10,7 @@ int main(void)
 
 	for (la = 'a'; la <= 'z'; la++)
 		if (la != 'e' && la != 'q')
-			purchar(la);
+			putchar(la);
 	putchar('\n');
 
 	return (0);

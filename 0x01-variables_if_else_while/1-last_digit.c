@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
- * Return: Always 0 (successful)
+ * Return: Always 0 
  */
 int main(void)
 {
@@ -22,6 +22,6 @@ int main(void)
 	else if (a == 0)
 		printf("Last digit of %d is %d and is 0\n", n, a);
 	else
-		printf("Last digit of %D is %D and is less than 6 and not 0\n", n, a);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, a);
 	return (0);
 }
